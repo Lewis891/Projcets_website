@@ -45,6 +45,11 @@ body {
     margin-left: 10px;
 }
 
+.github {
+    height: 60px;
+    width: 60px;
+}
+
 .row {
     display: flex;
     align-items: center;
